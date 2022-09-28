@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Authentication / Security Engineer
 -----------------------
 
-I am a software / security engineer that specializes in authentication and single sign-on. I love working with open-source products like RH Keycloak to setup SSO connections.
+I am a software engineer that specializes in authentication and single sign-on. I love working with open-source products like RH Keycloak to setup SSO connections.
 
 * 🌍  I'm based in Boise, Idaho
 * ✉️  You can contact me at [brandon.m.helmer@gmail.com](mailto:brandon.m.helmer@gmail.com)
