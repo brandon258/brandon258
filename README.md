@@ -1,37 +1,98 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brandon Helmer
-======================================================================================================================================
+# Hi 👋 I'm Brandon Helmer
 
-Authentication / Security Engineer
------------------------
+## Infrastructure • Platform • Identity Engineering
 
-I am a software engineer that specializes in authentication and single sign-on. I love working with open-source products like RH Keycloak to setup SSO connections.
+Senior engineer focused on cloud infrastructure, platform engineering, developer experience, and identity systems.
 
-* 🌍  I'm based in Boise, Idaho
-* ✉️  You can contact me at [brandon.m.helmer@gmail.com](mailto:brandon.m.helmer@gmail.com)
-* 🧠  I'm learning Java - Spring framework
+I enjoy designing and building platforms that make secure software delivery easier for engineering teams. My background spans AWS cloud architecture, CI/CD automation, identity and access management, single sign-on, developer platforms, and operational security.
 
-### Skills
+I am particularly interested in the intersection of:
 
+* Platform Engineering
+* Infrastructure as Code
+* Cloud Architecture
+* Identity & Access Management
+* Authorization Systems
+* Developer Experience (DevEx)
+* Operational Technology (OT) Security
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-</p>
+---
 
+## Current Areas of Focus
 
-### Socials
+* AWS Cloud Architecture
+* Platform Engineering
+* GitHub Actions & CI/CD
+* Infrastructure as Code
+* Keycloak & OpenID Connect
+* Auth0 / Customer Identity
+* Kubernetes & Container Platforms
+* Authorization Systems
+* Operational Technology Security
 
-<p align="left"> <a href="https://www.github.com/brandon258" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brandonhelmer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+## Open Source Projects
 
-<b>My GitHub Stats</b>
+### BASIS (Building Automation Identity & Security)
 
-<a href="http://www.github.com/brandon258"><img src="https://github-readme-stats.vercel.app/api?username=brandon258&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="brandon258's GitHub stats" /></a>
+BASIS is an open-source initiative exploring identity-aware authorization for operational technology environments such as commercial buildings, hospitals, schools, warehouses, and data centers.
 
-<a href="http://www.github.com/brandon258"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brandon258&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+The project investigates how authorization, policy enforcement, and auditability can be applied consistently across operational systems while preserving clear trust boundaries and deterministic decision making.
 
-<a href="http://www.github.com/brandon258"><img src="https://activity-graph.herokuapp.com/graph?username=brandon258&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+Projects include:
 
-<a href="https://github.com/brandon258" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon258&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+* **basis-core** – Authorization kernel and policy enforcement engine
+* **basis-architecture** – Reference architecture and design artifacts
+* **basis-website** – Public project documentation and ecosystem website
+
+Website:
+
+https://buildingautomationsecurity.org
+
+GitHub Organization:
+
+https://github.com/basis-foundation
+
+---
+
+## Certifications
+
+### AWS
+
+* AWS Certified Solutions Architect – Associate
+* AWS Certified Developer – Associate
+
+---
+
+## Technologies
+
+### Cloud & Infrastructure
+
+AWS • CloudFront • Route53 • API Gateway • Lambda • S3 • DynamoDB • IAM
+
+### Platform Engineering
+
+GitHub Actions • Pulumi • Terraform • Docker • Kubernetes
+
+### Identity & Security
+
+Keycloak • Auth0 • OAuth 2.0 • OpenID Connect • SAML • SCIM • RBAC
+
+### Development
+
+Python • Go • Java • JavaScript • TypeScript
+
+---
+
+## Connect With Me
+
+* GitHub: https://github.com/brandon258
+* LinkedIn: https://linkedin.com/in/brandonhelmer
+* Email: [brandon.m.helmer@gmail.com](mailto:brandon.m.helmer@gmail.com)
+
+---
+
+## GitHub Statistics
+
+<!-- Existing GitHub Stats widgets can remain below this section -->
